@@ -34,6 +34,7 @@ table.e8d.table {
 }
 
 table.e8d_scorecard {
+	font-size: 1.2rem;
 	border-spacing: 0px;
 	box-shadow: -2px -2px 10px #e0e0e0, 
 				2px 2px 10px #808080;
