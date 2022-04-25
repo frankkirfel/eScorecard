@@ -455,7 +455,7 @@ div.e8d.note {
 	}
 	
 	table.e8d_scorecard {
-		font-size: 1.0rem;
+		font-size: 0.9rem;
 	}
 	
 	td#e8d_calculatedHCPI, td#e8d_calculatedSD, input#e8d_result {
