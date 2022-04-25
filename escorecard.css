@@ -300,8 +300,8 @@ div#e8d_container {
 	*/
 	
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+	margin: 0 auto;
+	padding: 0 0px;
 	max-width: 940px;
 }
 
@@ -452,6 +452,10 @@ div.e8d.note {
 		font-size: 1.1rem;
 		display: flex;
 		justify-content: center;
+	}
+	
+	table.e8d_scorecard {
+		font-size: 1.0rem;
 	}
 	
 	td#e8d_calculatedHCPI, td#e8d_calculatedSD, input#e8d_result {
