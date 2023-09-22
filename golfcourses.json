@@ -2713,9 +2713,7 @@
 		"name": "GC Rittergut Hedwigsburg e. V.",
 		"shortname": "Hedwigsburg, GC",
 		"clubnumber": 3355,
-		"courses": [			{
-				"name": "Platz AB (1-18)",
-				"gender": []
+		"courses": []
 	},
 	{
 		"name": "Green Eagle Golf Courses",
